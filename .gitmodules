@@ -4,9 +4,6 @@
 [submodule "wezterm"]
 	path = wezterm
 	url = git@github.com:benjaminjellis/wezterm.git
-[submodule "sketchybar"]
-	path = sketchybar
-	url = git@github.com:benjaminjellis/sketchybar.git
 [submodule "aerospace"]
 	path = aerospace
 	url = git@github.com:benjaminjellis/aerospace.git
